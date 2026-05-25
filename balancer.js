@@ -8,7 +8,6 @@ app.use(express.json());
 
 // Your two proxy servers
 const SERVERS = [
-  'https://tmdb-proxy-laen.onrender.com',
   'https://tmdb-proxy-1.onrender.com',
   'https://tmdb-proxy-2.onrender.com',
 ];
