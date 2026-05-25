@@ -1,0 +1,13 @@
+{
+  "name": "tmdb-balancer",
+  "version": "1.0.0",
+  "main": "balancer.js",
+  "scripts": {
+    "start": "node balancer.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "cors": "^2.8.5"
+  }
+}
